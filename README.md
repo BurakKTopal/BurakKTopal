@@ -6,5 +6,4 @@ As a mathematician, I delve into the essence of problems by breaking them down i
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BurakKtopal&show_icons=true&theme=radical)
-<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKtopal&layout=compact&theme=radical)
