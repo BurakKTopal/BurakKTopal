@@ -3,7 +3,7 @@
 As a mathematician, I delve into the essence of problems by breaking them down into basic components. Leveraging my eagerness, coding, and analytical skills, I strive to understand, solve, and optimize.
 
 ## Languages
-My portfolio mainly consists of Python, with my portfolio project in javascript. Recently, I also delved deeper into C++, making a particle diffusion simulator.
+My portfolio mainly consists of Python, with my portfolio project in javascript. Recently, I also delved deeper into C++.
 <br>
 <center>
   
