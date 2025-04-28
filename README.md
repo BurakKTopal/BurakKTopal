@@ -3,9 +3,9 @@
 As a mathematician, I delve into the essence of problems by breaking them down into basic components. Leveraging my eagerness, coding, and analytical skills, I strive to understand, solve, and optimize.
 
 ## Languages
-My portfolio mainly consists of Python, with my portfolio project in javascript. Recently, I also delved deeper into C++.
-<br>
-<center>
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakKtopal&layout=compact&theme=radical)
-</center>
+<ol>
+  <li>Python</li>
+  <li>C++</li>
+  <li>Javascript</li>
+  <li>C#</li>
+</ol>
